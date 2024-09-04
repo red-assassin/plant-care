@@ -1,0 +1,9 @@
+{
+  "isps": {
+   "Shibli_ka_ISP": {
+	"path": "file://isps/custom-isps/product.json"
+	}
+  },
+  "associations": [
+  ]
+}
